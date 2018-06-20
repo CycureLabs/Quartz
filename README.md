@@ -52,3 +52,9 @@ $ python quartz.py
 ----
 
 For licensing part, read [LICENSE](https://github.com/CycureLabs/Quartz/LICENSE) file.
+
+### References :ledger:
+----
+
+* [Whitepaper](http://security.ece.cmu.edu/aeg/aeg-current.pdf)
+
