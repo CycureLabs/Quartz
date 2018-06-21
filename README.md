@@ -41,11 +41,10 @@ It would be so much help, if you keep this things in mind:
 
 ### Installation :zap:
 
-Quartz is fully developed using python. (As we find this language easy)
+It's currently under development phase, let's see how it builds out.
 
 ```sh
-$ sudo pip install -r requirements.txt
-$ python quartz.py
+$ sudo wait 2018
 ```
 
 ### License :scroll:
@@ -56,5 +55,6 @@ For licensing part, read [LICENSE](https://github.com/CycureLabs/Quartz/LICENSE)
 ### References :ledger:
 ----
 
-* [Whitepaper](http://security.ece.cmu.edu/aeg/aeg-current.pdf)
+* [Whitepaper (AEG - Automatic Exploit Generator)](http://security.ece.cmu.edu/aeg/aeg-current.pdf)
+* [The Art of War: Offensive techniques in binary analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)
 
