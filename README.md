@@ -36,9 +36,6 @@ It would be so much help, if you keep this things in mind:
 * Add some comments in your code.
 * Add your name on top of your code, would help us to manage things.
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
 ### Installation :zap:
 
 Quartz is fully developed using python. (As we find this language easy)
