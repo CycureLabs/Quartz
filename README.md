@@ -1,5 +1,8 @@
 # Quartz - An automatic exploit generator
 
+
+### :heavy_exclamation_mark: This project is under-development right now, so don't expect it to run right away. :heavy_exclamation_mark:
+
 [Quartz](https://cycurelabs.com/quartz) is an automatic exploit generator tool, powered by Cycure Labs. This tool is inspired by a project done in Carnegie Mellon University, Pittsburgh i.e. AEG (Automatic Exploit Generator). Although the source code or even the executable was never released in public, just some white papers on how they made this possible.
 
 ## Expectations :heart_eyes:
@@ -31,21 +34,15 @@ If anything you wanna know, which we didn't mentioned. You could ping us at [inf
 
 ### For developers :computer:
 
-It would be so much help, if you keep this things in mind:
+* It would be so much help, add some comments in your code, will help us to understand. :yum:
 
-* Add some comments in your code.
-* Add your name on top of your code, would help us to manage things.
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Installation :zap:
 
-Quartz is fully developed using python. (As we find this language easy)
+It's currently under development phase, let's see how it builds out.
 
 ```sh
-$ sudo pip install -r requirements.txt
-$ python quartz.py
+$ sudo wait 2018
 ```
 
 ### License :scroll:
@@ -56,5 +53,6 @@ For licensing part, read [LICENSE](https://github.com/CycureLabs/Quartz/LICENSE)
 ### References :ledger:
 ----
 
-* [Whitepaper](http://security.ece.cmu.edu/aeg/aeg-current.pdf)
+* [Whitepaper (AEG - Automatic Exploit Generator)](http://security.ece.cmu.edu/aeg/aeg-current.pdf)
+* [The Art of War: Offensive techniques in binary analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)
 
