@@ -1,5 +1,9 @@
 # Quartz - An automatic exploit generator
 
+### NOTICE :heavy_exclamation_mark:
+----
+This project is under-development right now, so don't expect it to run right away.
+
 [Quartz](https://cycurelabs.com/quartz) is an automatic exploit generator tool, powered by Cycure Labs. This tool is inspired by a project done in Carnegie Mellon University, Pittsburgh i.e. AEG (Automatic Exploit Generator). Although the source code or even the executable was never released in public, just some white papers on how they made this possible.
 
 ## Expectations :heart_eyes:
