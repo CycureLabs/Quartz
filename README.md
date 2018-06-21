@@ -1,6 +1,6 @@
 # Quartz - An automatic exploit generator
 
-----
+
 This project is under-development right now, so don't expect it to run right away. :heavy_exclamation_mark:
 ----
 
