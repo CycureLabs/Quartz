@@ -34,10 +34,8 @@ If anything you wanna know, which we didn't mentioned. You could ping us at [inf
 
 ### For developers :computer:
 
-It would be so much help, if you keep this things in mind:
+* It would be so much help, add some comments in your code, will help us to understand. :yum:
 
-* Add some comments in your code.
-* Add your name on top of your code, would help us to manage things.
 
 ### Installation :zap:
 
