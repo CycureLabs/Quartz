@@ -235,6 +235,7 @@ class FunctionGraphVisitor(GraphVisitor):
         return sorted_nodes
 
 class SingleNodeGraphVisitor(GraphVisitor):
+<<<<<<< HEAD
     def __init__(self, node):
         '''
         :param node: The single node that should be in the graph.
@@ -748,3 +749,6 @@ class ForwardAnalysis(object):
 
 
 
+=======
+    # TODO: 
+>>>>>>> 83bdfc99a1b160fffa3bd3f3ca72082c848a39ef
