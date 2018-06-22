@@ -1,4 +1,9 @@
-__author__ = 'Rajesh'
+'''
+Code from angr framework for python
+https://github.com/angr/angr
+
+Modified some code for Quartz.
+'''
 
 from .cfg_fast import Fast
 from .cfg_accurate import Accurate
