@@ -742,13 +742,3 @@ class ForwardAnalysis(object):
                 hi = mid
 
         lst.insert(lo, elem)
-
-
-
-
-
-
-
-=======
-    # TODO: 
->>>>>>> 83bdfc99a1b160fffa3bd3f3ca72082c848a39ef
